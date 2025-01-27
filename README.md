@@ -22,39 +22,3 @@
 
 ✳️ **Database Design** -
 <p align="justify">The database is design in such a way that when a student, admin or faculty is added the database automatically assigns the id to them. I have used the concept like stored procedure, function and triggers to do this process. Also the attendance can be recorded and used such query.
-
-### Project Video Link :
-If you want to see the detail output of my project - [Click here](https://youtu.be/iMQJRHVZQHA)
-
-### Installation Process :
-<p align="justify">If you want to do this project then fork this project or clone using the following command :
-
-    git clone https://github.com/PrathameshDhande22/Student-Management-System-in-Python.git
-
-**Please Make Sure** : The Mysql database should be installed. The following python modules should be installed mentioned below the introduction.
-**To Install the Python Module** : Use the following command
-
-    pip install pillow
- <br />
- 
-
-    pip install tkcalendar
-  
-  <br />
-  
-
-    pip install tktooltip
-<br />
-
-    pip install mysql-connector
-<br />
-</p>
-Make the database using the dump folder in the Reports folder or just execute one by one query in report folder filename *sql_file.sql*.
-<br />
-In the config.ini file insert your database user, host and password otherwise the error will be occured.
-<br />
-Run these python file :
-
-    py app.py
-    
-### Author : Prathamesh Dhande
